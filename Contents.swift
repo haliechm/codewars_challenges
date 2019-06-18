@@ -1,6 +1,6 @@
 /*
  Square Challenge from codewars.com
- Written by: Halie Chmura
+ Created by: Halie Chmura
  */
 
 import UIKit
